@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-1st text file Balaji
-=======
-1st text file
-saketh
->>>>>>> a5fb4be6f32a1fffbd1fff7674fcbf94c8063965
-=======
-hi
->>>>>>> adbe560d323bb02f6207fb728f72ec29e3bd56e3
+hi balaji
